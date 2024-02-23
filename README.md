@@ -1,0 +1,5 @@
+- 👋 Hello, I'm Victoria Kehaiova
+- 👀 I am interested in software, Java technology
+- 🌱 I am currently studying computer engineering.
+- 💞️ Looking to collaborate on a Java internship
+- 📫 How to contact me: viktoriakehaiova5@gmail.com
