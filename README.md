@@ -14,5 +14,5 @@
    - :earth_africa: Exciting travels :blue_car: 
    - :movie_camera: Good movies
    --- 
-- :eyes: Looking to a Java internship
+
 - 📫 How to contact me: viktoriakehaiova5@gmail.com
