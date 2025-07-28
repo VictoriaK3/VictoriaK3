@@ -5,9 +5,9 @@
    ---- 
    :brain: *****Education*****
         
-  - :woman_student: I'm currently studying Computer engineering in Technical University of Sofia, branch Plovdiv
-  - 🌱  Engaged in learning Python,Java,JS technology
-  - :triangular_ruler: Love Math
+  - :woman_student:  Computer Engineer | Technical University of Sofia, Plovdiv
+  - 🤖   AI-powered Automation Specialist
+  - 📐✨ Passionate about Mathematics and Technology
   ---
 :smiling_face_with_three_hearts: *****Favorite activities*****
    - :art: Canvas painting
